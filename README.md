@@ -2,7 +2,7 @@
 
 The Odin Project, Project: Recipes in HTML Foundations.
 
-Project Assignment can be found [here](https://www.theodinproject.com/lessons/foundations-recipes)
+Project Assignment can be found [here](https://www.theodinproject.com/lessons/foundations-recipes).
 
 ## Objective
 
